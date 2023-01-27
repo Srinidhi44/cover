@@ -130,7 +130,7 @@ Write HTML and CSS for designing book cover page and execute them.
 ```
 
 ## Output:
-![output](./ou.png)
+![OUTPUT](./out.png)
 
 ## HTML Validator
 ![HTML Validator](./valid.png)
